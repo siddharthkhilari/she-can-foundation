@@ -16,9 +16,7 @@ A beautiful, responsive contact form website for She Can Foundation built as par
 
 ## 🌐 View Live
 
-**Live Website:** https://yourusername.github.io/she-can-foundation
-
-*(Replace `yourusername` with your actual GitHub username)*
+**Live Website:** https://siddharthkhilari.github.io/she-can-foundation
 
 ## 📁 Project Files
 
